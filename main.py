@@ -8,7 +8,7 @@ transition = { # transition function for all states
     "q3": lambda c: "q3" if c == "0" else ("q5" if c=="_" else "q6"),
     "q4": lambda c: "q2" if isDigit(c) else "q6",
     "q5": lambda c: "q3" if c == "0" else "q6",
-    "q6": lambda c: "q5" if c == "0" else "q6"
+    "q6": lambda c: "q6"
     }
 
 def main():
