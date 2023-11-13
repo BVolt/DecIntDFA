@@ -16,4 +16,4 @@ nonzerodigit ::=  "1"..."9"
 digit        ::=  "0"..."9"
 ```
 
-![alt text](relative%20path/DecIntDFA.jpg?raw=true)
+![alt text](DecIntDFA.jpg?raw=true)
