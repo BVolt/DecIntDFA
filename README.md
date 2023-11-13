@@ -16,4 +16,4 @@ nonzerodigit ::=  "1"..."9"
 digit        ::=  "0"..."9"
 ```
 
-![alt text](https://github.com/SKAT3110/NumericLiterals/DecimalInt/DFADiagrams/DecIntNFA.jpg?raw=true)
+![alt text](https://github.com/SKAT3110/NumericLiterals/DecimalInt/DFADiagrams/DecIntDFA.jpg?raw=true)
